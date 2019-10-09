@@ -1,6 +1,7 @@
 package main
 
 import (
+	_"bj4q/models"
 	_ "bj4q/routers"
 	"github.com/astaxie/beego"
 )
